@@ -3,7 +3,7 @@
 
 My linkedin profile: <a target="_blank" href="https://www.linkedin.com/in/efren-andablo-reyes/"><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
  
-![Efren GitHub Stats](https://github-readme-stats.vercel.app/api?username=eandablo_icons=true)
+![Efren GitHub Stats](https://github-readme-stats.vercel.app/api?username=eandablo)
 
 
 ---
