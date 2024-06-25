@@ -1,19 +1,6 @@
+## Hi there 👋
 
-|||---|||
-#### Columns
 
-can save space.
-
-#### Prettify
-
-the page layout.
-
-*** promo
-#### Hi there 👋
-
-trendy.
-***
-|||---|||
 
 <!--
 **eandablo/eandablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
