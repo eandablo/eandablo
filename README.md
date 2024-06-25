@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I have a BSc, MSc and PhD in applied physics and recently obtained my certificate in Full Stack Software Develpoment from Code Institute.
 
 My linkedin profile: <a target="_blank" href="https://www.linkedin.com/in/efren-andablo-reyes/"><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
  
